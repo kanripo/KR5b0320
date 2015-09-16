@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:16:17.788775
+# -*- mode: mandoku-view -*-
 #+TITLE: 赤松子章曆
-#+PROPERTY: DZID  DZ0615
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，11—173 六卷 洞玄部表奏類
+#+DATE: 2015-08-29 00:16:21
+#+PROPERTY:  LASTPB <PB KR5b0320_SJB_006-110222b>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶<md:KR5b0320_HFL_006-027b>¶¶¶¶¶¶¶¶¶¶¶
+
